@@ -67,4 +67,4 @@ Inspired by https://samiulfaysal.com/.
 Copyright © 2018-2021
 
 ## License
-toastr is under MIT license - http://www.opensource.org/licenses/mit-license.php
+f2sheet is under MIT license - http://www.opensource.org/licenses/mit-license.php
